@@ -224,7 +224,18 @@ You can find an example config at `./server/.env.development`
 
 ## ./ai/resources/yolov8\*
 
-Yolo models were downloaded from the [ultralytics repository](https://github.com/ultralytics/ultralytics). I was unable to find any documentation on how to credit them, please, if you do, please send a pull request.
+```
+BibTeX
+@software{Jocher_Ultralytics_YOLO_2023,
+author = {Jocher, Glenn and Chaurasia, Ayush and Qiu, Jing},
+license = {AGPL-3.0},
+month = jan,
+title = {{Ultralytics YOLO}},
+url = {https://github.com/ultralytics/ultralytics},
+version = {8.0.0},
+year = {2023}
+}
+```
 
 ## ./ai/resources/andrewmvd_dataset.zip
 
